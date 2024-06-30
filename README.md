@@ -18,3 +18,12 @@ npm run dev
 
 ## Idea Credit
 [joereynolds/whattocode](https://github.com/joereynolds/what-to-code?tab=readme-ov-file#websites)
+
+
+## Updates Coming Soon
+
+Search by
+[ ] name
+[ ] software type
+[ ] keyboard strokes
+[ ] description

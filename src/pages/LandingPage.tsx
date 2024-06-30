@@ -1,15 +1,27 @@
+import { Box } from "@mui/material";
+import { CustomInputField } from "../components/CustomInput";
+
 export const LandingPage = () => {
+  // #01172F
+  // #C6EBBE
+  //  #FFFFF
   return (
-    <div className="bg-[#01172F] h-dvh">
+    <div className="h-dvh">
       <div
         style={{ letterSpacing: "4px" }}
         className="flex text-[32px] font-[800] py-[56px] flex justify-center"
       >
-        <p className="text-[#C6EBBE]">useful</p>
-        <p className="text-[#FFFFFF]">shortcuts</p>
+        <p className="">useful</p>
+        <p className="">shortcuts</p>
       </div>
-      {/* flex justify-center items-center */}
-      <div className="text-white text-[32px] font-bold"></div>
+      <div className="flex justify-center items-center text-center">
+        <CustomInputField
+          label="Search for a shortcut by name"
+          placeholder="Copy, paste, mirror, etc."
+          width="280px"
+        />
+      </div>
+      <Box></Box>
     </div>
   );
 };

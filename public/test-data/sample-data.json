@@ -1,3 +1,37 @@
-{
-    "label": {""}
-}
+{  "_id":{"$oid":"6680c248144f0aaa9beed4df"},
+    "software": "Adobe Illustrator",
+    "type": "desktop application",
+    "shortcuts": [
+      {
+        "shortcut": "cmd+n",
+        "description": "New Document",
+        "os": "mac"
+      },
+      {
+        "shortcut": "ctrl+n",
+        "description": "New Document",
+        "os": "windows"
+      },
+      {
+        "shortcut": "cmd+o",
+        "description": "Open Document",
+        "os": "mac"
+      },
+      {
+        "shortcut": "ctrl+o",
+        "description": "Open Document",
+        "os": "windows"
+      },
+      {
+        "shortcut": "cmd+s",
+        "description": "Save",
+        "os": "mac"
+      },
+      {
+        "shortcut": "ctrl+s",
+        "description": "Save",
+        "os": "windows"
+      }
+    ]
+  }
+  
