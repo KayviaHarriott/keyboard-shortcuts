@@ -12,6 +12,8 @@
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
+    "@fontsource-variable/raleway": "^5.0.20",
+    "@fontsource/raleway": "^5.0.19",
     "@mui/material": "^5.15.21",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
